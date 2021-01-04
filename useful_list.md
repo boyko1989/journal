@@ -1,6 +1,13 @@
 [НАЗАД](README.md)
 # Список полезных сайтов
 
+## Спецификации
+
+#### HTML
+
+- [W3C](https://www.w3.org/) (на русском [здесь](https://w3c.org.ru/index.html))
+- [WHATWG](https://html.spec.whatwg.org/)
+
 ## Онлайн справочники, форумы и учебники...
 
 ### ... по вебу
