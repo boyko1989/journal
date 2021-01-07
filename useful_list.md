@@ -44,6 +44,9 @@
 
 - [ShellHucks - блог о администрировании Linux](https://www.shellhacks.com/ru/)
   - [Git — Настройка Username & Password — Хранение Учетных Данных](https://www.shellhacks.com/ru/git-config-username-password-store-credentials/)
+  
+## Сервисы
+- [Rookee](https://wiki.rookee.ru/) - Платформа автоматизированного управления интернет-рекламой для малого и среднего бизнеса. Позволяет эффективно управлять внешним ссылочным окружением и реализовать комплексную рекламную кампанию в единой системе
 
 ## Материалы с Хабра
 - Termux шаг за шагом [часть 1](https://habr.com/ru/post/444950/) и [часть 2](https://habr.com/ru/post/445868/)
