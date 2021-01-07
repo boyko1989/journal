@@ -1,4 +1,4 @@
-[НА ГЛАВНУЮ](../../README.md)/[К СПИСКУ](../elem_of_interface.md)
+[НА ГЛАВНУЮ](../../README.md) / [К СПИСКУ](../elem_of_interface.md)
 
 # Аккордеон 
 ## Языки: <img src="img/css-logo.png" alt="css" width="30"/><img src="img/html-logo.png" alt="html" width="30"/>

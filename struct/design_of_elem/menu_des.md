@@ -1,4 +1,4 @@
-[НА ГЛАВНУЮ](../../README.md)/[К СПИСКУ](../elem_of_interface.md)
+[НА ГЛАВНУЮ](../../README.md) / [К СПИСКУ](../elem_of_interface.md)
 
 # Меню 
 
