@@ -22,7 +22,7 @@
 <br>
 
 ## Радиальное меню
-**Языки:** <img src="img/css-logo.png" alt="css" width="30"/><img src="img/html-logo.png" alt="html" width="30"/>
+**Языки:** <img src="img/css-logo.png" alt="css" width="30"/><img src="img/html-logo.png" alt="html" width="30"/><br>
 
 [Создание радиального меню в CSS ![](https://overcoder.net/img/1/1/4/357.png)](https://overcoder.net/q/9250/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BC%D0%B5%D0%BD%D1%8E-%D0%B2-css)<br>
 <br>
@@ -33,7 +33,8 @@
 
 ---
 
-**Языки:** <img src="img/js-logo.png" alt="js" width="30"/><img src="img/css-logo.png" alt="css" width="30"/><img src="img/html-logo.png" alt="html" width="30"/>
+**Языки:** <img src="img/js-logo.png" alt="js" width="30"/><img src="img/css-logo.png" alt="css" width="30"/><img src="img/html-logo.png" alt="html" width="30"/><br>
+
 [Круговое Меню ![](img/rad_menu.jpg)](https://coderoad.ru/19328048/CSS3-%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5-%D0%9C%D0%B5%D0%BD%D1%8E)
 Ссылка на [исходники](http://jsfiddle.net/SNrAF/1/)<br>
 <br>
