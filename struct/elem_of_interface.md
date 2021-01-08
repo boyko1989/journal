@@ -6,12 +6,13 @@
 
 ---
 
-Посмотреть также: 
-- [Портлет](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BB%D0%B5%D1%82)
-- [НАБОРЫ HTML UI ЭЛЕМЕНТОВ](https://postovoy.net/20-besplatnyh-naborov-html-ui-elementov-dlya-sayta.html)
-- [Ui интерфейс: Что такое UX/UI-дизайн и как попасть в эти профессии — статьи на Skillbox](https://art-nto.ru/raznoe/ui-interfejs-chto-takoe-ux-ui-dizajn-i-kak-popast-v-eti-professii-stati-na-skillbox.html#UI)
-- [53 технических термина, которые вам следует знать, как UX дизайнеру](https://ux.pub/53-texnicheskix-termina-kotorye-vam-sleduet-znat-kak-ux-dizajneru/)
-- [Словарь UX/UI терминов для недизайнеров](https://turumburum.ua/blog/slovar-ux-ui-terminov-dlya-nedizaynerov/)
+> #### Стоит ознакомиться:
+>
+> - [Портлет](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BB%D0%B5%D1%82)
+> - [НАБОРЫ HTML UI ЭЛЕМЕНТОВ](https://postovoy.net/20-besplatnyh-naborov-html-ui-elementov-dlya-sayta.html)
+> - [Ui интерфейс: Что такое UX/UI-дизайн и как попасть в эти профессии — статьи на Skillbox](https://art-nto.ru/raznoe/ui-interfejs-chto-takoe-ux-ui-dizajn-i-kak-popast-v-eti-professii-stati-na-skillbox.html#UI)
+> - [53 технических термина, которые вам следует знать, как UX дизайнеру](https://ux.pub/53-texnicheskix-termina-kotorye-vam-sleduet-znat-kak-ux-dizajneru/)
+> - [Словарь UX/UI терминов для недизайнеров](https://turumburum.ua/blog/slovar-ux-ui-terminov-dlya-nedizaynerov/)
 
 ---
 
@@ -228,6 +229,8 @@
 ![](https://borodaboroda.com/wp-content/uploads/Tags-3x-1.png)
 
 ***Хлебные крошки*** — навигационная цепочка — элемент интерфейса, показывающий путь от начала до того уровня, где в данный момент находится пользователь.
+
+[SEO и хлебные крошки, виды](https://wiki.rookee.ru/menyu-kroshka/)
 
 ![](https://borodaboroda.com/wp-content/uploads/kroshki-4x.png)
 
