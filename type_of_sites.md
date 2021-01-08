@@ -4,7 +4,7 @@
 > #### Стоит ознакомиться:
 >
 > - [Что такое юзабилити сайта (usability)?](https://deaction.com/chto_takoe_yuzabiliti_usability/)
-> - 
+> - [Стратегия развития сайта и бизнеса компании при помощи блога](https://a1z.ru/razrabotka-sajtov/675-kak-blogi-mogut-pomoch-sajtu-vashej-kompanii.html)
 
 ## Виды сайтов по функциональности
 
