@@ -51,6 +51,7 @@
 ## Материалы с Хабра
 - Termux шаг за шагом [часть 1](https://habr.com/ru/post/444950/) и [часть 2](https://habr.com/ru/post/445868/)
 - [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)
+- [UI controls на русском](https://habr.com/ru/post/223929/)
 
 ## Оформление проектов
 #### Логотипы и брендинг
