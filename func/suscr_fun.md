@@ -3,6 +3,7 @@
 > #### Стоит ознакомиться:
 >
 > - [Как организовать процесс подписки на вашем сайте](https://habr.com/ru/company/unisender/blog/151265/)
+> [Как создать подписку на обновления сайта](https://serpstat.com/ru/blog/kak-nastroit-podpisku-na-obnovlenija-sajta/)
 
 ## [Своя рассылка на PHP](https://htmlweb.ru/php/example/mail_add_and_send.php)
 
