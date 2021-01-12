@@ -18,6 +18,11 @@
 - [ИТ Шеф – всё о веб-разработке и программировании](https://itchief.ru/)
 - [Личный блог Юрия Ключевского о веб-разработке и веб-дизайне](http://rightblog.ru/)
 
+
+### ... по веб-дизайну
+- [Тренды веб-дизайна с 2000 до 2018: как все было?](https://www.plerdy.com/ru/blog/web-design-trends/)
+- [ДИЗАЙН МАНИЯ](http://design-mania.ru/) — блог про веб-дизайн
+
 #### JavaScript
 - [Современный учебник JavaScript](https://learn.javascript.ru/)
   - На данный момент остановился [здесь](https://learn.javascript.ru/alert-prompt-confirm)
