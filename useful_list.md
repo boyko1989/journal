@@ -30,6 +30,7 @@
 - [jQuery - page2page](http://jquery.page2page.ru/index.php5/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) - справочник по jQuery
 - [jQuery для начинающих - Антон Шевчук](https://antonshevchuk.gitbooks.io/jquery-for-beginners/content/) - книга на gitbooks
   - На данный момент остановился [здесь](https://antonshevchuk.gitbooks.io/jquery-for-beginners/content/0_html_css_javascript/javascript-introduction.html)
+  - [MATERIAL-UI](https://material-ui.com/ru/) — React компоненты для быстрой и легкой веб-разработки. Создайте свой собственный дизайн или начните с Material Design.
 
 
 ### ... по программированию (в т.ч по вебу)
@@ -60,6 +61,7 @@
 - Termux шаг за шагом [часть 1](https://habr.com/ru/post/444950/) и [часть 2](https://habr.com/ru/post/445868/)
 - [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)
 - [UI controls на русском](https://habr.com/ru/post/223929/)
+- [Material Design: на Луну и обратно](https://habr.com/ru/company/redmadrobot/blog/252773/)
 
 ## Оформление проектов
 #### Логотипы и брендинг
