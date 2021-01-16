@@ -34,7 +34,8 @@
 
 
 ### ... по программированию (в т.ч по вебу)
-
+- [CSS-TRICKS](https://css-tricks.com/) — сайт англоязычный про вёрстку, но очень красивый)))
+  - [The HTML5 progress Element](https://css-tricks.com/html5-progress-element/) - про прогресс-элементы (красивый шрифт)
 - [Блог о программировании DevGung](https://dev-gang.ru/)
   - [Сниппеты в VS Code](https://dev-gang.ru/article/fragmenty-koda-vs-of3zdc2f54/)
 
