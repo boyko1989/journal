@@ -57,11 +57,15 @@
 - [Rookee](https://wiki.rookee.ru/) - Платформа автоматизированного управления интернет-рекламой для малого и среднего бизнеса. Позволяет эффективно управлять внешним ссылочным окружением и реализовать комплексную рекламную кампанию в единой системе
 - [Flexberry ](https://flexberry.github.io/ru/index.html) — предоставляет широкий ряд продуктов для разработчиков. Эффективность, качество и надёжность решений, созданных с использованием платформы Flexberry - залог успешности новых и новых проектов.
 
+### Готовый фукнкционал для сайтов
+- [Конструктор веб-приложений Falcon Space](https://falcon.web-automation.ru/) — Инструмент создания личных кабинетов, учетных систем, CRM и B2B-площадок
+
 ## Материалы с Хабра
 - Termux шаг за шагом [часть 1](https://habr.com/ru/post/444950/) и [часть 2](https://habr.com/ru/post/445868/)
 - [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)
 - [UI controls на русском](https://habr.com/ru/post/223929/)
 - [Material Design: на Луну и обратно](https://habr.com/ru/company/redmadrobot/blog/252773/)
+- [Как сделать веб-формы на сайте удобными и безопасными: инструменты разработки и конструкторы](https://habr.com/ru/company/netologyru/blog/454900/)
 
 ## Оформление проектов
 #### Логотипы и брендинг
@@ -82,6 +86,9 @@
 - [NISNOM](https://nisnom.com/) — Сборник HTML, CSS, JavaScript/jQuery компонентов
 - [Beloweb](http://beloweb.ru/) — Плагины jquery и шаблоны для создания сайта, wordpress. Веб дизайн для начинающих.
 - [Постовой](https://postovoy.net/)
+
+#### Для Wordpress
+- [Elegant Themes](https://www.elegantthemes.com/) — The Most Popular WordPress Themes In The World And The Ultimate Visual Page Builder
 
 
 ## Программы
