@@ -37,6 +37,21 @@
 Двунаправленный вариант для числовых значений. Нажатие на кнопку позволяет изменить значение параметра на единицу в большую или меньшую сторону.
 
 
+#### ***[Radiobutton](design_of_elem/rad_theory.md)***
+Позволяет пользователю выбрать одну опцию.
+
+![](https://borodaboroda.com/wp-content/uploads/radiobutton-3x.png)
+
+#### ***[Checkbox](design_of_elem/check_theory.md)***
+Позволяет выбрать несколько опций.
+
+![](https://borodaboroda.com/wp-content/uploads/Checkbox-3x.png)
+
+#### ***[Select](design_of_elem/select_theory.md)***
+Позволяет пользователю выбрать одну опцию из выпадающего списка.
+
+![](https://borodaboroda.com/wp-content/uploads/Select-3x.png)
+
 <br><br>
 
 ### Navigation Components
@@ -98,18 +113,6 @@
 
 
 
-#### ***[Radiobutton](design_of_elem/rad_theory.md)***
-Позволяет пользователю выбрать одну опцию.
-
-![](https://borodaboroda.com/wp-content/uploads/radiobutton-3x.png)
-
-***Checkbox*** — позволяет выбрать несколько опций.
-
-![](https://borodaboroda.com/wp-content/uploads/Checkbox-3x.png)
-
-***Select*** — позволяет пользователю выбрать одну опцию из выпадающего списка.
-
-![](https://borodaboroda.com/wp-content/uploads/Select-3x.png)
 
 ***Accordeon*** — элемент интерфейса состоящий из заголовков и скрываемого и открываемого контента. 
 
