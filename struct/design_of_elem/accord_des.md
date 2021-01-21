@@ -1,5 +1,9 @@
 [НА ГЛАВНУЮ](../../README.md) / [К СПИСКУ](../elem_of_interface.md)
 
+> #### Стоит ознакомиться:
+>
+> - [Аккордеон (элемент интерфейса)](https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%B5%D0%BE%D0%BD_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0) "Википедия")
+
 # Аккордеон 
 ## Языки: <img src="img/css-logo.png" alt="css" width="30"/><img src="img/html-logo.png" alt="html" width="30"/>
 ---
